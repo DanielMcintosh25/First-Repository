@@ -1,0 +1,62 @@
+body{
+    background-color: #cfe0e8;
+}
+
+ol {
+    color: red;
+    color: 	#D2B48C;
+}
+/* start using numbers to identify colors (look on website to get color codes*/
+.change{
+    color: 	#4682B4;
+    border: 5px solid #D2B48C;
+}
+/* remeber to use semi-colens*/
+#random{
+    color: #4682B4;
+}
+/* remeber #id can only be used once */
+h3{
+    margin: 0 auto;
+    color: #4682B4;
+    font-size: 30px
+}
+h2{
+    font-size: 1rem;
+    margin: 0 auto;
+    color: 	#4682B4;
+    border: 8px;
+    width: 15vw;
+    height: 4vh;
+}
+/* when using 'rem' defult size aka. 16px is 1.125rem*/
+h5{
+    font-size: 150%;
+    color: #4682B4;
+}
+h1{
+    font: 200%;
+    color: #4682B4; 
+    border: 10px solid 	#D2B48C;
+    }
+h6{
+    font-size: 150%;
+    color: #4682B4;
+    width: 1vw;
+    height: 1vh;
+}
+h7{
+    color: #4682B4;
+    font-size: 200%;
+}
+img{
+    border: 8px solid #D2B48C;
+}
+div{
+    border: solid #D2B48C;
+    width: 10vw;
+    height: 5vh;
+}
+/* This CSS is for index.html (resume)*/
+/* If the width and height is not correct headings can get ugly*/
+/* width = vw and height = vh*/

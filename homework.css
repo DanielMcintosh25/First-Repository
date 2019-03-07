@@ -1,0 +1,30 @@
+body{
+    background-color: #EEEEEE;
+}
+.fancy{
+    color: #000000;
+    border: 5px solid #008B8B;
+    font-size: 20px;
+}
+img{
+    border: 5px solid #008B8B;
+}
+#fun{
+    color: #8B0000;
+    font-size: 20px;
+}
+h1{
+    font-size: 40px;
+    color: #000000;
+}
+h2{
+    font-size: 40px;
+    color: #000000;
+}
+h3{
+    font-size: 40px;
+    color: #000000;
+}
+
+
+    
