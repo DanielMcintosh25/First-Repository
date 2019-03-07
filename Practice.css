@@ -1,0 +1,34 @@
+h1{
+    font-size: 200%;
+    color:#4682B4;
+    border: 8px solid 	#008080;
+}
+h2 {
+    font-size: 200%;
+    color:#4682B4;
+}
+h3{
+    font-size: 200%;
+    color: #4682B4;
+}
+h4{
+    font-size: 200%;
+    color: #4682B4;
+}
+h5{
+    font-size: 200%;
+    color: #4682B4;
+}
+img{
+    border: 8px solid #008080;
+}
+li{
+    width: 15vw;
+    height: 5;
+    border: 4px solid #D2B48C;
+}
+a{
+    width: 20vw;
+    height: 8;
+    border: 3px solid #4682B4;
+}
